@@ -2,7 +2,7 @@
 ModuleBookmarks1=
 ModuleBookmarks2=
 ModuleBookmarks3=
-ModuleBreakpoints0=523
+ModuleBreakpoints0=
 ModuleBreakpoints1=
 ModuleBreakpoints2=
 ModuleBreakpoints3=
@@ -10,6 +10,6 @@ ModuleClosedNodes0=
 ModuleClosedNodes1=
 ModuleClosedNodes2=
 ModuleClosedNodes3=
-NavigationStack=Main,ExchangedHandler,508,6,Main,Globals,24,0,Main,UiindexToLineid,595,6,Main,FindNextHeadIndex,621,6,Main,clv1_VisibleRangeChanged,732,6,Main,EventHandler,319,6,Main,exchangeLine,263,0,Main,Activity_Create,40,0,Main,Swipe_ActionClicked,713,6
+NavigationStack=Main,exchangeLine,263,0,Main,Activity_Create,35,0,Main,Globals,18,0,Main,Swipe_ActionClicked,672,6,Main,FindNextHeadIndex,626,6,clsMapOfList,ClearAll,48,0,Main,ExchangedHandler,525,0,Main,EventHandler,407,6,clsMapOfList,getContent,50,0,Main,clv1_ItemClick,652,6
 SelectedBuild=0
 VisibleModules=1,3,2

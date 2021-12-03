@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	package="hk.b4a.customlistview.header"
+	package="hk.b4a.customlistview.headerswipe"
 	android:versionCode="1"
 	android:versionName=""
 	android:installLocation="internalOnly">
@@ -11,15 +11,14 @@
 	    android:normalScreens="true" 
 	    android:smallScreens="true" 
 	    android:anyDensity="true"/>
-	<uses-permission android:name="android.permission.INTERNET"/>
 	<application
 		android:icon="@drawable/icon"
-		android:label="CLV Header Swipe Example">
+		android:label="CLV Swipe Example">
 		<activity
 			android:windowSoftInputMode="stateHidden"
 			android:launchMode="singleTop"
 			android:name=".main"
-			android:label="CLV Header Swipe Example"
+			android:label="CLV Swipe Example"
 			android:screenOrientation="unspecified">
 			<intent-filter>
 			   <action android:name="android.intent.action.MAIN" />
